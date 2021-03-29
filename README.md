@@ -1,4 +1,4 @@
-# my-java-projects
+# basic-rest-api
 
 In the past months I have developed a basic back-end application which allows to store data in a database. 
 I have tried to learn a bit of Spring and Rest API to make this application close to a real one.
